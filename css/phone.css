@@ -1,0 +1,120 @@
+/* Navigation */
+#navbar {
+    flex-direction: column;
+
+  
+}
+
+ #navbar .Field{
+    width: 300px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 4px;
+}
+ #navbar #logo img{
+    height: 59px;
+    margin: 3px 40px 0px 50px;
+}
+#navbar .icon{
+    padding: 12px;
+    color: rgb(49, 0, 128);
+    width: 70px;
+    text-align: left;
+    margin-left: 258px;
+}
+
+.list1 a{
+    font-size:12px;
+    padding: 3px 10px;
+}
+
+
+
+
+
+
+
+h1.h-primary {
+    margin-left: 30px;
+}
+
+#list .i {
+    padding: 12px;
+    margin-left: 2px;
+    color: rgb(49, 0, 128);
+    cursor: pointer;
+}
+ #navbar #list a {
+    color: blueviolet;
+    text-decoration: none;
+    display: block;
+    padding: 7px 4px;
+    /* margin-left: 24px; */
+    font-family: 'Baloo Bhai', cursive;
+}
+
+
+
+
+
+
+
+/* Services section  */
+#services{
+    flex-direction: column;
+}
+
+#services .box { 
+    padding: 14px;
+    margin: 2px 0px; 
+    margin-bottom: 20px;
+}
+
+/* Clients section */
+#clients{
+    flex-wrap: wrap;
+}
+
+#clients img{
+    width: 66px;
+    padding: 6px;
+    height: auto;
+}
+
+/* Contact us section */
+#contact-box form{
+    width:80%;
+}
+/* Contact us section */
+#contact-box form{
+    width:80%;
+}
+/* Footer */
+
+/* Utility classes */
+.h-primary{
+    font-size:26px;
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
+#contact .btn1 {
+    padding: 3px 7px;
+    border: 2px solid white;
+    background-color: red;
+    color: white;
+    margin: 17px;
+    font-size: 1.1rem;
+    border-radius: 17px;
+    cursor: pointer;
+    margin-left: 55px;
+    text-decoration: none;
+}
+
+
+
+
+
+
